@@ -1,6 +1,9 @@
 # Quotable Quotes
 
 This is a simple program built with NUXT.JS and Tailwind.
+
+Here it is a screenshot of look and feel of the web page.
+
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUohY28AwhuXzvWAJqWBU3qxcGhITqGxrrdf-b9DzOZlcEnyTBH2nxGe7qhXsW9vJXFBhEh_vpjAxAd1Q244vNDZHCUUsB3damHiinLKmrpx7kuk_yV9l-wqA75vYKjoNevzDffCfmznYMSDALNZjIr=w1362-h633-no">
 
 ## Build Setup
